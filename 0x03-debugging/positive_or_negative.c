@@ -1,12 +1,4 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
-
-/**
- * positive_or_negative - print a number
- * @i : integer
- * Return: 0
- */
+#include "main.h"
 void positive_or_negative(int i)
 {
 	if (i > 0)
