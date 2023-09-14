@@ -1,1 +1,1 @@
-0x03. C - Debugging EX
+0x03. C - Debugging
