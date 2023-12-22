@@ -1,4 +1,3 @@
-3-hash_table_set.c‏
 #include "hash_tables.h"
 
 /**
